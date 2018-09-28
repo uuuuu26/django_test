@@ -14,4 +14,4 @@ def add2(request, a, b):
     return HttpResponse(str(c))
 
 def index(request):
-    return  render(request, 'home.html')
+    return  render(request, 'home1.html')

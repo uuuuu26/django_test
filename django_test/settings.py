@@ -40,6 +40,7 @@ INSTALLED_APPS = [
 
     'app_test',
     'calc',
+    'list'
 ]
 
 MIDDLEWARE = [
